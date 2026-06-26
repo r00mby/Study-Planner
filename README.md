@@ -30,7 +30,7 @@ The SQL database file is located in the Database folder.
 ![Home Page](screenshots/home.png)
 
 ### About Page
-![About Page](screenshots/about.png)
+![About Page](screenshots/About.jpg)
 
 ### Add Tasks Page
 ![Add Tasks Page](screenshots/addtasks.png)
