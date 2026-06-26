@@ -23,3 +23,12 @@ The SQL database file is located in the Database folder.
 3. Import study_track_db.sql into phpMyAdmin.
 4. Start Apache and MySQL.
 5. Open the project in your browser.
+Screenshots
+
+Home Page
+
+About Page
+
+Add Tasks Page
+
+View Tasks Page
