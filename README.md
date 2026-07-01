@@ -1,4 +1,4 @@
-# Study Planner
+# Study Track
 
 A web-based Study Planner developed using PHP, HTML, CSS, and MySQL.
 
